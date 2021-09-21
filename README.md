@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nishank
 - 👀 I push bugs and features in Airmeet.
-- 🌱 Champ in Ruby, knows Java and Python too.
+- 🌱 Champ in Ruby, juggling in Java and Python.
 - 📫 You can reach me at nishank@airmeet.com
 
 <!---
