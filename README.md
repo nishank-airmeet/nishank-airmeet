@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nishank
 - 👀 I push bugs and features in Airmeet.
-- 🌱 I’m currently learning Java, JavaScript. Knows Ruby and Python.
+- 🌱 Champ in Ruby, knows Java and Python too.
 - 📫 You can reach me at nishank@airmeet.com
 
 <!---
